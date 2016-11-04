@@ -20,16 +20,16 @@
 </v>
 <v t="amd.20151215180106.1" a="E"><vh>設定與開發</vh>
 <v t="leo.20161013190948.1"><vh>@@edit index.html</vh></v>
-<v t="leo.20161014111031.1"><vh>@clean index.html</vh>
+<v t="leo.20161014111031.1" a="E"><vh>@clean index.html</vh>
 <v t="leo.20161014111031.2" a="E"><vh>html</vh>
 <v t="leo.20161014111031.3"><vh>head</vh></v>
 <v t="leo.20161014111031.4" a="E"><vh>body</vh>
 <v t="leo.20161014111031.5" a="E"><vh>reveal div</vh>
 <v t="leo.20161014111031.6" a="E"><vh>slides div</vh>
-<v t="leo.20161014111031.7"><vh>封面投影片</vh>
+<v t="leo.20161014111031.7" a="E"><vh>封面投影片</vh>
 <v t="leo.20161014111031.8"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20161014111031.9"><vh>三大主題教學</vh>
+<v t="leo.20161014111031.9" a="E"><vh>三大主題教學</vh>
 <v t="leo.20161014111031.10" a="E"><vh>主題教學</vh>
 <v t="leo.20161014111031.11"><vh>電腦輔助設計在教什麼?</vh></v>
 </v>
@@ -108,7 +108,13 @@
 <v t="amd.20151215170031.1" a="E"><vh>@path ./../content</vh>
 <v t="amd.20160106093454.1" a="E"><vh>yen 所寫的網誌文章</vh>
 <v t="amd.20160727114506.1" a="E"><vh>201609</vh>
-<v t="amd.20160727120222.1"><vh>@edit 20160921.md</vh></v>
+<v t="amd.20160727120222.1"><vh>@edit 20160916W1.md</vh></v>
+<v t="leo.20161104102339.1"><vh>@edit 20160923W2.md</vh></v>
+<v t="leo.20161104102341.1"><vh>@edit 20160930W3.md</vh></v>
+<v t="leo.20161104102343.1"><vh>@edit 20161007W4.md</vh></v>
+<v t="leo.20161104102348.1"><vh>@edit 20161014W5.md</vh></v>
+<v t="leo.20161104102350.1"><vh>@edit 20161021W6.md</vh></v>
+<v t="leo.20161104102557.1"><vh>@edit 20161028W7.md</vh></v>
 </v>
 </v>
 </v>
@@ -693,11 +699,15 @@ make.start()
 
 ### 虎科大機械設計工程系
 
-&lt;small&gt;
-Created by [kmolab](http://chiamingyen.github.io/kmolab/blog/)
-&lt;/small&gt;
+四設計二乙
 
-[甲班電腦輔助設計實習課程網誌](blog/index.html)
+40423241
+
+黃鈺灃
+
+&lt;small&gt;
+Created by [40423241](https://40423241.github.io/2016fallcadp_hw/blog/)
+&lt;/small&gt;
 
 [乙班電腦輔助設計實習課程網誌](https://mdecourse.github.io/2016fallcadpb/blog)
 
