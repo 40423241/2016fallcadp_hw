@@ -29,12 +29,12 @@
 <v t="leo.20161014111031.7" a="E"><vh>封面投影片</vh>
 <v t="leo.20161014111031.8"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20161014111031.9" a="E"><vh>三大主題教學</vh>
-<v t="leo.20161014111031.10" a="E"><vh>主題教學</vh>
-<v t="leo.20161014111031.11"><vh>電腦輔助設計在教什麼?</vh></v>
+<v t="leo.20161014111031.9"><vh>20160916W1</vh>
+<v t="leo.20161014111031.10" a="E"><vh>上課日期</vh>
+<v t="leo.20161014111031.11"><vh>20160916</vh></v>
 </v>
-<v t="leo.20161014111031.12" a="E"><vh>主題教學內容</vh>
-<v t="leo.20161014111031.13"><vh>電腦輔助設計在教什麼?</vh></v>
+<v t="leo.20161014111031.12" a="E"><vh>上課內容</vh>
+<v t="leo.20161014111031.13"><vh>中秋連假</vh></v>
 </v>
 <v t="leo.20161014111031.14" a="E"><vh>相關課程</vh>
 <v t="leo.20161014111031.15"><vh>電腦輔助設計系列課程</vh></v>
@@ -52,48 +52,77 @@
 <v t="leo.20161014111031.23"><vh>高效執行力</vh></v>
 </v>
 </v>
-<v t="leo.20161014111031.24"><vh>電腦輔助設計課程內涵</vh>
-<v t="leo.20161014111031.25" a="E"><vh>電腦輔助設計課程內涵</vh>
-<v t="leo.20161014111031.26"><vh>CAD 教學主題</vh></v>
+<v t="leo.20161014111031.24"><vh>20160923W2</vh>
+<v t="leo.20161014111031.25" a="E"><vh>上課日期</vh>
+<v t="leo.20161014111031.26"><vh>20160923</vh></v>
 </v>
-<v t="leo.20161014111031.27"><vh>Github pages 網頁</vh>
+<v t="leo.20161014111031.27" a="E"><vh>上課內容1</vh>
 <v t="leo.20161014111031.28"><vh>各學員任務</vh></v>
 </v>
-<v t="leo.20161014111031.29"><vh>所有操作都必須拍影片</vh>
+<v t="leo.20161014111031.29" a="E"><vh>所有操作都必須拍影片</vh>
 <v t="leo.20161014111031.30"><vh>操作影片</vh></v>
 </v>
-<v t="leo.20161014111031.31"><vh>Solvespace 操作練習</vh>
+<v t="leo.20161014111031.31" a="E"><vh>Solvespace 操作練習</vh>
 <v t="leo.20161014111031.32"><vh>Solvespace 實習</vh></v>
 </v>
-<v t="leo.20161014111031.33"><vh>OnShape 操作練習</vh>
+<v t="leo.20161014111031.33" a="E"><vh>OnShape 操作練習</vh>
 <v t="leo.20161014111031.34"><vh>OnShape 實習</vh></v>
 </v>
-<v t="leo.20161014111031.35"><vh>網際自評系統</vh>
+<v t="leo.20161014111031.35" a="E"><vh>網際自評系統</vh>
 <v t="leo.20161014111031.36"><vh>Flask 網際程式</vh></v>
 </v>
 </v>
-<v t="leo.20161014111031.37" a="E"><vh>Windows 環境下可攜環境</vh>
-<v t="leo.20161014111031.38" a="E"><vh>下載 miniconda 可攜環境</vh>
-<v t="leo.20161014111031.39"><vh>下載可攜程式環境</vh></v>
+<v t="leo.20161014111031.37"><vh>20160930W3</vh>
+<v t="leo.20161014111031.38" a="E"><vh>上課日期</vh>
+<v t="leo.20161014111031.39"><vh>20160930</vh></v>
 </v>
 </v>
-<v t="leo.20161014111031.40"><vh>各式內容引用範例</vh>
-<v t="leo.20161014111031.41" a="E"><vh>導入數學符號與方程式</vh>
+<v t="leo.20161014111031.40"><vh>20161007W4</vh>
+<v t="leo.20161014111031.41" a="E"><vh>上課日期</vh>
 <v t="leo.20161014111031.42"><vh>LaTeX 格式方程式</vh></v>
 </v>
-<v t="leo.20161014111031.43" a="E"><vh>導入縮排程式碼</vh>
+<v t="leo.20161014111031.43" a="E"><vh>上課內容1</vh>
 <v t="leo.20161014111031.44"><vh>引用程式碼</vh></v>
 </v>
-<v t="leo.20161014111031.45" a="E"><vh>導入影片</vh>
+<v t="leo.20161014111031.45" a="E"><vh>上課內容2</vh>
 <v t="leo.20161014111031.46"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
+<v t="leo.20161111025639.1"><vh>20161014W5</vh>
+<v t="leo.20161111025639.2" a="E"><vh>上課日期</vh>
+<v t="leo.20161111025639.3"><vh>20161014</vh></v>
+</v>
+</v>
+<v t="leo.20161111025646.1"><vh>20161021W6</vh>
+<v t="leo.20161111025646.2"><vh>上課日期</vh>
+<v t="leo.20161111025646.3"><vh>20161021</vh></v>
+</v>
+<v t="leo.20161111025646.4"><vh>上課內容1</vh>
+<v t="leo.20161111025646.5"><vh>解決子模組在對應上的問題</vh></v>
+</v>
+</v>
+<v t="leo.20161111025652.1"><vh>20161028W7</vh>
+<v t="leo.20161111025652.2"><vh>上課日期</vh>
+<v t="leo.20161111025652.3"><vh>20161028</vh></v>
+</v>
+<v t="leo.20161111025652.4" a="E"><vh>上課內容1</vh>
+<v t="leo.20161111025652.5"><vh>使用Trace Point計算路徑</vh></v>
+</v>
+</v>
+<v t="leo.20161111025657.1"><vh>20161104W8</vh>
+<v t="leo.20161111025657.2" a="E"><vh>上課日期</vh>
+<v t="leo.20161111025657.3"><vh>20161104</vh></v>
+</v>
+<v t="leo.20161111025657.4" a="E"><vh>上課內容1</vh>
+<v t="leo.20161111025657.5"><vh>使用Trace Point計算路徑</vh></v>
 </v>
 </v>
 </v>
 </v>
 </v>
-<v t="leo.20151213230723.1"><vh>Pelican 設定</vh>
+</v>
+</v>
+<v t="leo.20151213230723.1" a="E"><vh>Pelican 設定</vh>
 <v t="leo.20151213230957.1"><vh>文章 Date 設定</vh></v>
 <v t="leo.20151213230729.1"><vh>使用 summary plugin</vh></v>
 </v>
@@ -108,8 +137,8 @@
 <v t="amd.20151215170031.1" a="E"><vh>@path ./../content</vh>
 <v t="amd.20160106093454.1" a="E"><vh>yen 所寫的網誌文章</vh>
 <v t="amd.20160727114506.1" a="E"><vh>201609</vh>
-<v t="amd.20160727120222.1"><vh>@edit 20160916W1.md</vh></v>
-<v t="leo.20161104102339.1"><vh>@edit 20160923W2.md</vh></v>
+<v t="leo.20161104102339.1"><vh>@edit 20160916W1.md</vh></v>
+<v t="leo.20161111022914.1"><vh>@edit 20160923W2.md</vh></v>
 <v t="leo.20161104102341.1"><vh>@edit 20160930W3.md</vh></v>
 <v t="leo.20161104102343.1"><vh>@edit 20161007W4.md</vh></v>
 <v t="leo.20161104102348.1"><vh>@edit 20161014W5.md</vh></v>
@@ -119,7 +148,7 @@
 </v>
 </v>
 <v t="amd.20160106094754.1"><vh>@path ./../content/pages</vh>
-<v t="amd.20160106094829.1" a="E"><vh>yen 所寫的 pages 文章</vh>
+<v t="amd.20160106094829.1"><vh>yen 所寫的 pages 文章</vh>
 <v t="amd.20160106094844.1"><vh>@edit pages_1.md</vh></v>
 </v>
 </v>
@@ -287,14 +316,7 @@ redirecting ....
 
 						
 </t>
-<t tx="leo.20161014111031.11">## 電腦輔助設計在教什麼?
-
-### 創造力
-### 表達力
-以及
-### 協同力
-
-</t>
+<t tx="leo.20161014111031.11">## 2016-09-16 第一週</t>
 <t tx="leo.20161014111031.12">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -304,13 +326,7 @@ redirecting ....
 
 						
 </t>
-<t tx="leo.20161014111031.13"># CAD 在教什麼?
-
-## &lt;span style="color:#FFFF00"&gt;創造力&lt;/span&gt;&lt;small&gt;=自學力+程式力+想像力&lt;/small&gt;
-## &lt;span style="color:#FFFF00"&gt;表達力&lt;/span&gt;&lt;small&gt;=口語+文字+2D+3D+理論+實體&lt;/small&gt;
-&lt;span style="color:#00FF80"&gt;以及&lt;/span&gt;
-## &lt;span style="color:#FFFF00"&gt;協同力&lt;/span&gt;&lt;small&gt;=電腦+網路+工具+專案&lt;/small&gt;
-
+<t tx="leo.20161014111031.13">中秋連假
 </t>
 <t tx="leo.20161014111031.14">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -416,17 +432,7 @@ redirecting ....
 
 						
 </t>
-<t tx="leo.20161014111031.26">## 電腦輔助設計實習課程
-
-教學主題
-
-  * 課程網頁、學員網頁、分組網頁串連
-  * Solvespace 零組件繪圖與機構模擬
-  * OnShape 零組件繪圖與機構模擬
-  * Delta 3D printer 零組件繪圖與模擬
-  * Delta 3D printer 零組件列印組立
-  * 建立網際自評系統
-
+<t tx="leo.20161014111031.26">## 2016-09-23 第二週
 
 </t>
 <t tx="leo.20161014111031.27">&lt;section data-markdown&gt;
@@ -717,5 +723,107 @@ Created by [40423241](https://40423241.github.io/2016fallcadp_hw/blog/)
 @others
 &lt;/section&gt;
 </t>
+<t tx="leo.20161111025639.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20161111025639.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161111025639.3">## 2016-10-14 第五週
+
+</t>
+<t tx="leo.20161111025646.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20161111025646.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161111025646.3">## 2016-10-21 第六週
+
+</t>
+<t tx="leo.20161111025646.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161111025646.5">## 解決子模組在對應上的問題
+
+&lt;p&gt;因為之前的2016fallcadp_hw倉儲少複製了一些東西,刪除舊的倉儲後,重新做一個和之前倉儲同名的2016fallcadp_hw倉儲,但是在小組倉儲所連結的子模組,抓不到新倉儲連結,所以我們需要重新加入一次組員倉儲的資料&lt;/p&gt;
+
+
+</t>
+<t tx="leo.20161111025652.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20161111025652.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161111025652.3">## 2016-10-28 第七週
+
+</t>
+<t tx="leo.20161111025652.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161111025652.5">## 使用Trace Point計算路徑
+
+&lt;iframe src="https://player.vimeo.com/video/190090265" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+
+</t>
+<t tx="leo.20161111025657.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20161111025657.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161111025657.3">## 2016-11-04 第八週
+
+</t>
+<t tx="leo.20161111025657.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161111025657.5">## 使用Trace Point計算路徑
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/7R0VNR6S9zg" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</t>
 </tnodes>
 </leo_file>
