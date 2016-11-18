@@ -117,6 +117,14 @@
 <v t="leo.20161111025657.5"><vh>使用Trace Point計算路徑</vh></v>
 </v>
 </v>
+<v t="leo.20161118114731.1" a="E"><vh>20161118</vh>
+<v t="leo.20161118114731.2" a="E"><vh>上課日期</vh>
+<v t="leo.20161118114731.3"><vh>20161118</vh></v>
+</v>
+<v t="leo.20161118114731.4" a="E"><vh>上課內容1</vh>
+<v t="leo.20161118114731.5"><vh>平面四連桿機構模擬</vh></v>
+</v>
+</v>
 </v>
 </v>
 </v>
@@ -144,6 +152,7 @@
 <v t="leo.20161104102348.1"><vh>@edit 20161014W5.md</vh></v>
 <v t="leo.20161104102350.1"><vh>@edit 20161021W6.md</vh></v>
 <v t="leo.20161104102557.1"><vh>@edit 20161028W7.md</vh></v>
+<v t="leo.20161118112405.1"><vh>@edit 201611/18.md</vh></v>
 </v>
 </v>
 </v>
@@ -825,5 +834,51 @@ Created by [40423241](https://40423241.github.io/2016fallcadp_hw/blog/)
 <t tx="leo.20161111025657.5">## 使用Trace Point計算路徑
 
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/7R0VNR6S9zg" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20161118112405.1">@language md
+Title: 2016Fall 平面機構模擬
+Date: 2016-11-18 12:00
+Category: Misc
+Tags: 使用導引, 創造力, 表達能力, 協同設計
+Author: 40423241
+
+## Solvespace 平面四連桿機構模擬
+
+直接利用 Solvespace Analyze-Trace Point-Stop Trace 得到下列繞行路徑:
+
+&lt;img src="./../data/cadpa_w10_4bar.png" width="800" /&gt;
+
+將所得到的點座標 .csv 以 Excel 畫圖, 得到:
+
+&lt;img src="./../data/cadpa_w10_4bar_excel.png" width="800" /&gt;
+
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/H1ScfylDaEk" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20161118114731.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20161118114731.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161118114731.3">## 2016-11-18 第週
+
+</t>
+<t tx="leo.20161118114731.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161118114731.5">## 使用Trace Point計算路徑
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/H1ScfylDaEk" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</t>
 </tnodes>
 </leo_file>
