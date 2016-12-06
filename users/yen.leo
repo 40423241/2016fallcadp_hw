@@ -125,6 +125,22 @@
 <v t="leo.20161118114731.5"><vh>平面四連桿機構模擬</vh></v>
 </v>
 </v>
+<v t="leo.20161206091234.1" a="E"><vh>20161125W11</vh>
+<v t="leo.20161206091234.2" a="E"><vh>上課日期</vh>
+<v t="leo.20161206091234.3"><vh>20161125</vh></v>
+</v>
+<v t="leo.20161206091234.4" a="E"><vh>上課內容1</vh>
+<v t="leo.20161206091234.5"><vh>運動會</vh></v>
+</v>
+</v>
+<v t="leo.20161206091638.1"><vh>20161202W12</vh>
+<v t="leo.20161206091638.2" a="E"><vh>上課日期</vh>
+<v t="leo.20161206091638.3"><vh>20161202</vh></v>
+</v>
+<v t="leo.20161206091638.4" a="E"><vh>上課內容1</vh>
+<v t="leo.20161206091638.5"><vh>solvespace畫圖</vh></v>
+</v>
+</v>
 </v>
 </v>
 </v>
@@ -153,10 +169,12 @@
 <v t="leo.20161104102350.1"><vh>@edit 20161021W6.md</vh></v>
 <v t="leo.20161104102557.1"><vh>@edit 20161028W7.md</vh></v>
 <v t="leo.20161118112405.1"><vh>@edit 20161118W10.md</vh></v>
+<v t="leo.20161206094011.1"><vh>@edit 20161125W11.md</vh></v>
+<v t="leo.20161206094020.1"><vh>@edit 20161202W12.md</vh></v>
 </v>
 </v>
 </v>
-<v t="amd.20160106094754.1"><vh>@path ./../content/pages</vh>
+<v t="amd.20160106094754.1" a="E"><vh>@path ./../content/pages</vh>
 <v t="amd.20160106094829.1"><vh>yen 所寫的 pages 文章</vh>
 <v t="amd.20160106094844.1"><vh>@edit pages_1.md</vh></v>
 </v>
@@ -861,5 +879,66 @@ Created by [40423241](https://40423241.github.io/2016fallcadp_hw/blog/)
 <t tx="leo.20161118114731.5">## 平面四連桿機構模擬
 
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/H1ScfylDaEk" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20161206091234.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20161206091234.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161206091234.3">## 2016-11-25 第十一週
+
+</t>
+<t tx="leo.20161206091234.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161206091234.5">## 校慶運動會
+
+哈哈  因為
+運動會
+所以
+不用上課
+好開心
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/29tEEaTN_Sc" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20161206091638.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20161206091638.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161206091638.3">## 2016-12-02 第十二週
+
+</t>
+<t tx="leo.20161206091638.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161206091638.5">## SolvesPace
+
+
+</t>
 </tnodes>
 </leo_file>
