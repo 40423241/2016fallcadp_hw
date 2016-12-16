@@ -141,6 +141,17 @@
 <v t="leo.20161206091638.5"><vh>solvespace畫圖</vh></v>
 </v>
 </v>
+<v t="leo.20161216103051.1"><vh>20161209W13</vh>
+<v t="leo.20161216103051.2" a="E"><vh>上課日期</vh>
+<v t="leo.20161216103051.3"><vh>20161209</vh></v>
+</v>
+<v t="leo.20161216103051.4" a="E"><vh>上課內容1</vh>
+<v t="leo.20161216103051.5"><vh>solvespace畫圖</vh></v>
+</v>
+<v t="leo.20161216103211.1" a="E"><vh>心得</vh>
+<v t="leo.20161216103211.2"><vh>心得</vh></v>
+</v>
+</v>
 </v>
 </v>
 </v>
@@ -171,6 +182,7 @@
 <v t="leo.20161118112405.1"><vh>@edit 20161118W10.md</vh></v>
 <v t="leo.20161206094011.1"><vh>@edit 20161125W11.md</vh></v>
 <v t="leo.20161206094020.1"><vh>@edit 20161202W12.md</vh></v>
+<v t="leo.20161216103012.1"><vh>@edit 20161209W13.md</vh></v>
 </v>
 </v>
 </v>
@@ -937,6 +949,50 @@ Created by [40423241](https://40423241.github.io/2016fallcadp_hw/blog/)
 						
 </t>
 <t tx="leo.20161206091638.5">## SolvesPace
+
+
+</t>
+<t tx="leo.20161216103051.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20161216103051.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161216103051.3">## 2016-12-02 第十二週
+
+</t>
+<t tx="leo.20161216103051.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161216103051.5">## SolvesPace
+
+
+</t>
+<t tx="leo.20161216103211.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161216103211.2">## 心得
+
+Q:許多人推上去接出現很多問題
+A:當版本上傳後 github pages 無法正確更新, 試著 git rm -f -r plugin/liquid_tags/test_data 後提交推送.
 
 
 </t>
