@@ -7,7 +7,18 @@
 &lt;iframe src="./../data/W14.html" width="550"  height="500"/&gt;&lt;/iframe&gt;</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry><entry><title>2016Fall 平面機構模擬3</title><link href="./2016fall-ping-mian-ji-gou-mo-ni-3.html" rel="alternate"></link><published>2016-12-09T12:00:00+08:00</published><updated>2016-12-09T12:00:00+08:00</updated><author><name>40423241</name></author><id>tag:,2016-12-09:./2016fall-ping-mian-ji-gou-mo-ni-3.html</id><summary type="html">&lt;h2&gt;Solvespace 應用&lt;/h2&gt;
 &lt;iframe src="./../mechanism/block.html" width="800" height="600"&gt;&lt;/iframe&gt;
 
-&lt;iframe src="./../mechanism/conbination.html" width="800" height="600"&gt;&lt;/iframe&gt;</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry><entry><title>2016Fall 平面機構模擬2</title><link href="./2016fall-ping-mian-ji-gou-mo-ni-2.html" rel="alternate"></link><published>2016-12-02T12:00:00+08:00</published><updated>2016-12-02T12:00:00+08:00</updated><author><name>40423241</name></author><id>tag:,2016-12-02:./2016fall-ping-mian-ji-gou-mo-ni-2.html</id><summary type="html">&lt;h2&gt;Solvespace 應用&lt;/h2&gt;</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry><entry><title>2016Fall 校慶運動會</title><link href="./2016fall-xiao-qing-yun-dong-hui.html" rel="alternate"></link><published>2016-11-25T12:00:00+08:00</published><updated>2016-11-25T12:00:00+08:00</updated><author><name>40423241</name></author><id>tag:,2016-11-25:./2016fall-xiao-qing-yun-dong-hui.html</id><summary type="html">&lt;h2&gt;運動會~~~~~&lt;/h2&gt;
+&lt;iframe src="./../mechanism/conbination.html" width="800" height="600"&gt;&lt;/iframe&gt;
+
+&lt;h2&gt;除錯&lt;/h2&gt;
+&lt;p&gt;當版本上傳後 github pages 無法正確更新, 試著 git rm -f -r plugin/liquid_tags/test_data 後提交推送.
+&lt;pre&gt;The page build failed with the following error:&lt;/p&gt;
+&lt;p&gt;The tag &lt;code&gt;notebook&lt;/code&gt; on line 13 in &lt;code&gt;plugin/liquid_tags/test_data/content/test-ipython-notebook-nbformat3.md&lt;/code&gt; is not a recognized Liquid tag. For more information, see https://help.github.com/articles/page-build-failed-unknown-tag-error.&lt;/p&gt;
+&lt;p&gt;For information on troubleshooting Jekyll see:&lt;/p&gt;
+&lt;p&gt;https://help.github.com/articles/troubleshooting-jekyll-builds&lt;/p&gt;
+&lt;p&gt;If you have any questions you can contact us by replying to this email.&lt;/pre&gt;
+&lt;p&gt;從網頁來看我多了一個test_data的資料夾,於是進去到相對的目錄,利用指令把它刪掉就可以順利推到遠端,進行網頁的更新&lt;/p&gt;
+&lt;pre&gt;git rm -r -f plugin/liquid_tags/test_data&lt;/pre&gt;
+&lt;img src="../data/image/bug.png" width="800" /&gt;&lt;/p&gt;</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry><entry><title>2016Fall 平面機構模擬2</title><link href="./2016fall-ping-mian-ji-gou-mo-ni-2.html" rel="alternate"></link><published>2016-12-02T12:00:00+08:00</published><updated>2016-12-02T12:00:00+08:00</updated><author><name>40423241</name></author><id>tag:,2016-12-02:./2016fall-ping-mian-ji-gou-mo-ni-2.html</id><summary type="html">&lt;h2&gt;Solvespace 應用&lt;/h2&gt;</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry><entry><title>2016Fall 校慶運動會</title><link href="./2016fall-xiao-qing-yun-dong-hui.html" rel="alternate"></link><published>2016-11-25T12:00:00+08:00</published><updated>2016-11-25T12:00:00+08:00</updated><author><name>40423241</name></author><id>tag:,2016-11-25:./2016fall-xiao-qing-yun-dong-hui.html</id><summary type="html">&lt;h2&gt;運動會~~~~~&lt;/h2&gt;
 &lt;p&gt;哈哈  因為
 運動會
 所以
